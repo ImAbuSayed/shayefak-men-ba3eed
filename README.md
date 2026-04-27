@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> نور الليل في سماك
+> روحي تسأل عن هواك
+> والصمت يصرخ بلقاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
