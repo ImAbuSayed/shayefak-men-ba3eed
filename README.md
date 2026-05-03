@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Shayefak Men Ba3eed |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shayefak-men-ba3eed/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
