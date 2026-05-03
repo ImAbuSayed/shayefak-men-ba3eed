@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Shayefak Men Ba3eed |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shayefak-men-ba3eed/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> نور الليل في سماك
+> روحي تسأل عن هواك
+> والصمت يصرخ بلقاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
