@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shayefak Men Ba3eed
+
+This log tracks the cryptographic history and versioning for the song **Shayefak Men Ba3eed** (shayefak-men-ba3eed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:53:24.299338 | `v1` | `b1387ca4b50b1706b60add22ca5ac7f59b9b8004b019aca7f946b9bb710d96ae` | `b8cea3c9e462917449a9a4aba45ddf9d5187993eb8627ad1307be46c3f2ca90b` | `2026-05-09_shayefak-men-ba3eed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
